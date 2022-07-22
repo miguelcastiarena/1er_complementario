@@ -1,22 +1,4 @@
-//EJERCICIO Nº3
 
-/*
-debugger
-
-let numero = parseInt(prompt("Cuantas veces deasea que lo saluden?"))
-
-for (let i = 0; i < numero; i++) {
-    console.log("Hola")
-}
-
-*/
-
-
-
-
-//EJERCICIO Nº1
-
-/*
 debugger
 
 let numero = parseInt(prompt("Ingrese un numero a sumar"))
@@ -35,7 +17,7 @@ while (continuar === true) {
 
 }
 
-*/
+
 
 
 
